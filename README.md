@@ -2,7 +2,7 @@
 
 This project in Python using TensorFlow (GPU version). It utilizes a deep learning neural network trained on the MNIST dataset to recognize hand-drawn digits.
 
-![Number Guesser Demo](./number guesser/demo.png)
+![Number Guesser Demo](demo.png)
 
 
 ---
